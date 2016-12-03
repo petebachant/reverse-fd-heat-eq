@@ -1,4 +1,4 @@
-# Discovering the heat equation (automatically)
+# Automatically 'discovering' the heat equation
 
 This repository contains a [Jupyter notebook](notebook.ipynb) that develops a 
 process by which the heat equation is "discovered" from the analytical 
