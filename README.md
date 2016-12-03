@@ -1,5 +1,7 @@
 # Automatically 'discovering' the heat equation
 
+[![DOI](https://zenodo.org/badge/72929661.svg)](https://zenodo.org/badge/latestdoi/72929661)
+
 This repository contains a [Jupyter notebook](notebook.ipynb) that develops a 
 process by which the heat equation is "discovered" from the analytical 
 solution using a reverse finite difference method.
